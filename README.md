@@ -1,2 +1,3 @@
 # testCICD
-This is CI CD practice repository
+This is a CI CD practice repository
+This includes all the learning practice materials of the IBM CI/CD Certification. 
